@@ -33,5 +33,5 @@
 
    <h1> Thank you and Happy Learning :)</h1>
 
-  MCG
+  MCG.
 </form>
